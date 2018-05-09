@@ -1,0 +1,7 @@
+22 de abril de 2018, 19:24:
+Em "project>properties>C/C++ build>settings>tool settings>C++ linker",
+desmarquei "no shared libs",
+pois estava tendo erro de "undefined reference to _sbrk:" (algo relativo a aloc. dinâmica de memória)
+
+
+Não use HAL_Delay()

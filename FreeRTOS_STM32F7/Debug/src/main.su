@@ -1,0 +1,5 @@
+core_cm7.h:1906:22:void NVIC_SetPriority(IRQn_Type, uint32_t)	16	static
+core_cm7.h:2405:26:uint32_t SysTick_Config(uint32_t)	16	static
+main.cpp:48:7:void SysTick_Handler()	8	static
+main.cpp:104:5:int main()	16	static
+main.cpp:173:6:void _Error_Handler(char*, int)	16	static
